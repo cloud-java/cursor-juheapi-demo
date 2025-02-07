@@ -1,0 +1,21 @@
+{
+  "name": "huangli-h5",
+  "private": true,
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.3.4",
+    "axios": "^1.6.0",
+    "dayjs": "^1.11.10",
+    "vant": "^4.7.3"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.4.0",
+    "vite": "^4.5.0",
+    "less": "^4.2.0"
+  }
+} 
